@@ -20,7 +20,7 @@ python3 -m venv env
 
     ```
     source env/bin/activate123
-    ```
+    ```adg
 
 * Если у вас windows
 
